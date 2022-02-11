@@ -1,4 +1,4 @@
-## Problem:
+## Project:
 Smart contract on Cardano blockchain that can help to eliminate corruption, bad governance, mismanagement and lack of accountability plaguing Africa.
 
 ## Suggested Solution:
